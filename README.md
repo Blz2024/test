@@ -2,7 +2,7 @@
 
 #initiation au invite de commande
 ````
- https://github.com/Blz2024/test.com.git
+ https://github.com/Blz2024/test.git
 
  
  ````
