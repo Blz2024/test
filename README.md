@@ -8,4 +8,11 @@
  ````
 
 #Résoudre le soucis
+
+
 #Rédaction d'un commit
+
+
+#Création d'une autre branch 
+
+``` git checkout -b develop ```
